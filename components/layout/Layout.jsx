@@ -23,6 +23,7 @@ const Layout = ({ children }) => {
               `,
                     }}
                 />
+                <noscript><div><img src="https://mc.yandex.ru/watch/89986587"  style={{position:'absolute', left:'-9999px'}} alt="" /></div></noscript>
             </Head>
 
             

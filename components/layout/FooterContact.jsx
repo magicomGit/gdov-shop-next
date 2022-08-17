@@ -31,8 +31,8 @@ const FooterContact = () => {
             <div className="relative mb-5">
                 <div className="w-5 h-5 absolute top-3 left-0" ><VkIcon fill={'#4ac4f3'}/></div>
                 <div className=" font-medium  ml-10">Группа Вконтакте</div>
-                <div className=" text-slate-300  ml-10"><a href='http://vk.com/gdovcomp.club' target='_blank'>
-                    <div className='vk-link-div'>vk.com/gdovcomp.club</div>
+                <div className=" text-slate-300  ml-10"><a href='http://vk.com/gdovcomp.club' target='blank' >
+                    vk.com/gdovcomp.club
                 </a></div>
             </div>
 

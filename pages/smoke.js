@@ -1,8 +1,13 @@
+import Head from "next/head"
 
 
 const smoke = () => {
   return (
     <>
+    <Head>
+      <meta keywords="Электронные испарители"></meta>
+      <title>Электронные испарители</title>
+    </Head>
             <div className="md:flex  pb-4 my-4">
 
                 <div className="mx-auto border border-gray-300 rounded-lg my-3 md:m-1 w-full md:w-2/5 overflow-hidden bg-white">

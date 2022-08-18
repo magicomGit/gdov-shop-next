@@ -1,7 +1,11 @@
+import Head from "next/head"
 
 const contacts = () => {
   return (
     <>
+    <Head>      
+      <title>Контакты</title>
+    </Head>
     <div className="flex flex-col md:flex-row md:justify-around my-6 text-center">
         <div className="flex flex-col items-center gap-3 px-6">
             <img src="/img/communicate.webp" className="w-24" />

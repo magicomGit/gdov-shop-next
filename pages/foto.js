@@ -6,7 +6,7 @@ const foto = () => {
     <>
     <Head>
       <meta keywords="печать фотографий, копии, ксерокс, копирование документов, ламинирование"></meta>
-      <title>Печать фотографий</title>
+      <title>gdov-shop.ru/Печать фотографий</title>
     </Head>
     <div className="flex flex-col md:flex-row my-5 shadow">
             <div className=""><img src="/img/foto.webp" /></div>

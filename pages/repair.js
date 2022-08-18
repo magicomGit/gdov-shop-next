@@ -7,7 +7,7 @@ const repair = () => {
     <>
     <Head>
       <meta keywords="ремонт компьютеров, заправка принтеров, ремонт смартфонов, настройка ПО"></meta>
-      <title>Ремонт компьютеров</title>
+      <title>gdov-shop.ru/Ремонт компьютеров</title>
     </Head>
             <div className="md:flex block border-b border-gray-300 pb-4 my-4">
 

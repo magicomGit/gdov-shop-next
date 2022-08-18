@@ -8,7 +8,7 @@ const phones = () => {
     <>
     <Head>
       <meta keywords="продажа, смартфоны, телефоны, планшеты, СИМ карты, мтс, теле2, yota"></meta>
-      <title>Телефоны</title>
+      <title>gdov-shop.ru/Телефоны</title>
     </Head>
             <div className="md:flex block border-b border-gray-300 pb-4 my-4">
                 <div className="max-w-[400px] mx-auto border border-gray-300 rounded-lg my-3 md:m-1 w-full md:w-1/2 bg-white

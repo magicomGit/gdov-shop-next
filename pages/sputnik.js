@@ -7,7 +7,7 @@ const sputnik = () => {
     <>
     <Head>
       <meta keywords="триколор, мтс тв, антенны, кабели, smart приставки, цифровые тв приставки"></meta>
-      <title>Спутниковое ТВ</title>
+      <title>gdov-shop.ru/Спутниковое ТВ</title>
     </Head>
       <div className="flex flex-col md:flex-row font-bold text-2xl justify-center items-center border-b border-gray-300">
         <div className=" w-full ">

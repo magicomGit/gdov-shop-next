@@ -6,7 +6,7 @@ const smoke = () => {
     <>
     <Head>
       <meta keywords="Электронные испарители"></meta>
-      <title>Электронные испарители</title>
+      <title>gdov-shop.ru/Электронные испарители</title>
     </Head>
             <div className="md:flex  pb-4 my-4">
 

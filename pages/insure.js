@@ -6,7 +6,7 @@ const insure = () => {
     <>
     <Head>
       <meta keywords="страхование, ОСАГО, КАСКО, страхование недвижимости"></meta>
-      <title>Страхование</title>
+      <title>gdov-shop.ru/Страхование</title>
     </Head>
             <div className="flex flex-col gap-4 items-center md:flex-row my-4">
                 <img src="img/vsk.webp" className="shadow-md" />

@@ -6,7 +6,7 @@ export default function Home() {
     <>
     <Head>
       <meta keywords="продажа компьютеры, продажа ноутбуки, комплектующие для компьютера, роутеры, модемы, сетевое оборудование"></meta>
-      <title>Компьютеры</title>
+      <title>gdov-shop.ru/Компьютеры</title>
     </Head>
     <HomeCard/>
     </>

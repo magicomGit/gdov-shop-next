@@ -4,7 +4,7 @@ const contacts = () => {
   return (
     <>
     <Head>      
-      <title>Контакты</title>
+      <title>gdov-shop.ru/Контакты</title>
     </Head>
     <div className="flex flex-col md:flex-row md:justify-around my-6 text-center">
         <div className="flex flex-col items-center gap-3 px-6">

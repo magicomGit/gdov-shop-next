@@ -1,9 +1,11 @@
 import SimIcon from "../components/svg-icons/SimIcon"
 import CheckIcon from "../components/svg-icons/CheckIcon"
 import Head from "next/head"
+import Debounce from "../components/Debounce"
 
 
 const phones = () => {
+    
   return (
     <>
     <Head>
@@ -14,7 +16,7 @@ const phones = () => {
                 <div className="max-w-[400px] mx-auto border border-gray-300 rounded-lg my-3 md:m-1 w-full md:w-1/2 bg-white
                     flex flex-col items-center justify-center text-center min-h-[199px] md:min-h-[100px]">
                     <div className="w-14 h-14 rounded-full bg-[#31b9f3] flex items-center justify-center"><SimIcon/></div>
-                    <div>Продажа (замена) SIM карт ведущих операторов сотовой связи</div>
+                    <div >Продажа (замена) SIM карт ведущих операторов сотовой связи</div>
 
                 </div>
                 <div className="max-w-[400px] mx-auto border border-gray-300 rounded-lg my-3 md:m-1 w-full md:w-1/2 overflow-hidden bg-white">

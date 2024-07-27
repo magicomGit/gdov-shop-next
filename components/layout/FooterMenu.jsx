@@ -9,7 +9,7 @@ const FooterMenu = () => {
             <div className="relative pl-5 pt-1 mb-3">
                 <div className="w-3 h-3  absolute top-3 left-0" ><RightArrowIcon fill={'#fff'} /></div>
                 <Link href='/'>
-                    <a className='  text-white font-normal  hover:text-[#4ac4f3]'>
+                    <a className='text-white font-normal  hover:text-[#4ac4f3]'>
                         Компьютеры
                     </a>
                 </Link>

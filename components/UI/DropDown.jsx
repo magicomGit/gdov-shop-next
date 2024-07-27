@@ -28,20 +28,14 @@ export default function DropDown() {
             >
                 <div className="z-10 origin-top-right absolute right-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
                     <div className="py-1 ">
-                        <Link href="/repair" >
-                            <a className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100'>
-                                Ремонт комьютеров
-                            </a>
+                        <Link className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100' href="/repair" >                            
+                                Ремонт комьютеров                           
                         </Link>
-                        <Link href="/foto" >
-                            <a className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100'>
-                                Печать фотографий
-                            </a>
+                        <Link className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100' href="/foto" >                           
+                                Печать фотографий                           
                         </Link>
-                        <Link href="/insure" >
-                            <a className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100'>
-                                Страхование
-                            </a>
+                        <Link className='text-gray-700 block px-4 py-2 text-sm hover:bg-slate-100' href="/insure" >                           
+                                Страхование                            
                         </Link>
 
                     </div>

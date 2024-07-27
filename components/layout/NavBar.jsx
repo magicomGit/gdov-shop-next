@@ -70,13 +70,11 @@ const NavBar3 = () => {
                                 <div className="hidden lg:block lg:ml-6">
                                     <div className="flex ">
                                         {navigation.map((item) => (
-                                            <Link key={item.name} href={item.href}>
-                                                <a
-                                                    className={`${item.current ? 'text-white bg-[#2bace4]' : 'text-gray-200  hover:text-white'}  
-                                                px-2 py-2 rounded-md text-sm font-medium`}
-                                                >
+                                            <Link className={`${item.current ? 'text-white bg-[#2bace4]' : 'text-gray-200  hover:text-white'}  
+                                                px-2 py-2 rounded-md text-sm font-medium`} key={item.name} href={item.href}>
+                                               
                                                     {item.name}
-                                                </a></Link>
+                                               </Link>
                                         ))}
                                         <div className={ddClass}>
                                             <DropDown />
